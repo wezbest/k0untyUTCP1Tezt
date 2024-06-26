@@ -16,7 +16,13 @@ List all envs
 conda env list 
 ```
 
+Initialize env - This is important before using conda. You can initialize for specific shells 
+```sh
+conda init fish
+```
+
+
 Activate Env 
 ```sh 
-
+conda activate m1
 ```
