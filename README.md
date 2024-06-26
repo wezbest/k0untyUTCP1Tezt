@@ -1,4 +1,8 @@
 
+<img src="./wz/o.mp4" align="center">
+
+---
+
 <h1><code>k0untyUTCP1Tezt</code></h1>
 <h2><i>Various Py Tezt</i></h2>
 
