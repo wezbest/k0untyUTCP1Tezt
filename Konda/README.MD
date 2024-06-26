@@ -1,0 +1,22 @@
+# Konda
+
+> This directory will have all your testing of making env with conda. Conda seems to be presinstalled with this code spaces
+
+## Commands 
+
+All commands here are referenced from the main docs [`Conda Official Docs`](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-your-environments)
+
+Create a new env 
+```sh 
+conda create --name m1
+```
+
+List all envs 
+```sh 
+conda env list 
+```
+
+Activate Env 
+```sh 
+
+```

@@ -6,6 +6,7 @@
 
 1. [k0untyUTCP1Tezt](#k0untyutcp1tezt)
 2. [Stuffs](#stuffs)
+   1. [Managing Environments with Conda](#managing-environments-with-conda)
 
 
 ---
@@ -14,4 +15,6 @@
 > Testing various things in python
 
 # Stuffs 
+
+## Managing Environments with Conda 
 
