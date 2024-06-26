@@ -96,4 +96,4 @@ starship preset pure-preset > ~/.config/starship.toml
 echo "###### Add shit to config fish ##########"
 echo "Pulling down config.fish --->"
 echo "cp ./gwz/config.fish ~/.config/fish/"
-cp ./wb/config.fish ~/.config/fish/
+cp ./wz/config.fish ~/.config/fish/
