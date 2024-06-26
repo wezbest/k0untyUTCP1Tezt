@@ -26,3 +26,12 @@ Activate Env
 ```sh 
 conda activate m1
 ```
+
+List all installed packages in conda 
+```sh 
+# List all pkg
+conda list
+
+# If you want to see total lines 
+conda list | wc -l 
+```
