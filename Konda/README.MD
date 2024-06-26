@@ -35,3 +35,9 @@ conda list
 # If you want to see total lines 
 conda list | wc -l 
 ```
+
+Remove conda env 
+```sh
+conda remove --name m1 --all
+```
+- This will wip all panties
