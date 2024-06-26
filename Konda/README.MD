@@ -40,4 +40,4 @@ Remove conda env
 ```sh
 conda remove --name m1 --all
 ```
-- This will wip all panties
+- This will wipe env and all panties
